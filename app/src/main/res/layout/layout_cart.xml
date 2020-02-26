@@ -51,6 +51,7 @@
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:text="@string/total"
+        android:textStyle="bold|italic"
         android:layout_marginRight="16dp"
         android:layout_marginBottom="16dp"
         app:layout_constraintEnd_toEndOf="parent"
