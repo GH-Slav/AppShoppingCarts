@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppShoppingCarts</string>
+    <string name="clear">CLEAR</string>
+    <string name="cart">CART</string>
+    <string name="the_product_s_name">The product\'s name</string>
+    <string name="name_of_product">Enter product name</string>
+    <string name="price_of_product">Price of product</string>
+    <string name="enter_product_price">Enter product price</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="grocery_list">Grocery list</string>
+    <string name="no_products_yet">No products yet</string>
+    <string name="total">Total: </string>
+</resources>
